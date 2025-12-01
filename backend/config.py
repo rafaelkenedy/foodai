@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     
     # Google AI Studio Configuration
     google_api_key: str
-    gemini_model: str = "gemini-2.0-flash-exp"
+    gemini_model: str = "models/gemini-2.0-flash"
     
     # Database Configuration
     database_url: str = "sqlite:///./foodai.db"

@@ -242,7 +242,7 @@ class _ChatScreenState extends State<ChatScreen> {
     return ActionChip(
       label: Text(text),
       onPressed: () {
-        _messageController.text = text.split(' ').first;
+        _messageController.text = text;
         _sendMessage();
       },
       backgroundColor: Colors.grey[100],
