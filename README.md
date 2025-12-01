@@ -55,6 +55,17 @@ Projeto focado em **aprendizado prático sobre LLMOps** e integração de IA em 
 - ✅ Indicadores de digitação
 - ✅ Histórico de conversas
 
+- ✅ Histórico de conversas
+
+## 📱 Screenshots
+
+<div align="center">
+  <img src="docs/food_ai_screen1.png" width="200" />
+  <img src="docs/food_ai_screen2.png" width="200" />
+  <img src="docs/food_ai_screen3.png" width="200" />
+  <img src="docs/food_ai_screen4.png" width="200" />
+</div>
+
 ## 🚀 Como Executar
 
 ### Pré-requisitos
