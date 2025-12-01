@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Environment variables
+.env
+*.env
+!.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Flutter
+food_ai_app/.dart_tool/
+food_ai_app/.flutter-plugins
+food_ai_app/.flutter-plugins-dependencies
+food_ai_app/.packages
+food_ai_app/build/
+food_ai_app/.pub-cache/
+food_ai_app/.pub/
+food_ai_app/pubspec.lock
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
